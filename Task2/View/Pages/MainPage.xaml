@@ -1,0 +1,56 @@
+﻿<Page x:Class="WpfApp6.View.Pages.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp6.View.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800">
+
+    <Grid Background="SlateGray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="158*"/>
+            <RowDefinition Height="67*"/>
+        </Grid.RowDefinitions>
+        <StackPanel HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="0,120,0,0"/>
+        <StackPanel HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Orientation="Horizontal" Margin="0,170,0,0">
+            <TextBlock Text="Введите номер задания 1-30: "
+                   FontSize="30"
+                   FontWeight="Bold"/>
+            <TextBox
+                 Background="LightGray"
+                 x:Name="NumTask"
+                 Width="100"
+                 FontSize="30"/>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="0,29,0,0" Grid.Row="1"/>
+        <Button Content="Перейти к заданию"
+                FontSize="35"
+                FontWeight="Bold"
+                Cursor="Hand"
+                x:Name="BtnTask"
+                Click="BtnTask_Click"
+                Background="LightGray"
+                BorderBrush="Black"
+                Padding="12" 
+                Margin="178,255,177,105" Grid.RowSpan="2">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="14"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <TextBlock 
+                    HorizontalAlignment="Center"
+                    Text="Практическая работа №3"
+                    FontSize="45"
+                    FontWeight="UltraBlack" Margin="0,71,0,185"/>
+    </Grid>
+</Page>
