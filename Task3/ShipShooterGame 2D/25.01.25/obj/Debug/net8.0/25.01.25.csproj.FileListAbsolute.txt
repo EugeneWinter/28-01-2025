@@ -1,0 +1,14 @@
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\bin\Debug\net8.0\25.01.25.exe
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\bin\Debug\net8.0\25.01.25.deps.json
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\bin\Debug\net8.0\25.01.25.runtimeconfig.json
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\bin\Debug\net8.0\25.01.25.dll
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\bin\Debug\net8.0\25.01.25.pdb
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\obj\Debug\net8.0\25.01.25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\obj\Debug\net8.0\25.01.25.AssemblyInfoInputs.cache
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\obj\Debug\net8.0\25.01.25.AssemblyInfo.cs
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\obj\Debug\net8.0\25.01.25.csproj.CoreCompileInputs.cache
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\obj\Debug\net8.0\25.01.25.dll
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\obj\Debug\net8.0\refint\25.01.25.dll
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\obj\Debug\net8.0\25.01.25.pdb
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\obj\Debug\net8.0\25.01.25.genruntimeconfig.cache
+C:\Users\corvo\OneDrive\Рабочий стол\Shooter_Task3_25.01.25-master\Shooter_Task3_25.01.25-master\25.01.25\obj\Debug\net8.0\ref\25.01.25.dll
